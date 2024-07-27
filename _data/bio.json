@@ -7,20 +7,18 @@
     "phone": "+55(21) 9178-47125",
     "website": "https://antoniobrych.github.io",
     "summary": "Atualmente estou cursando minha graduação de Ciência de Dados na Escola de Matemática Aplicada da FGV (FGV EMAp)",
-    "location": { "address": " ", "postalCode": " ", "city": " ", "countryCode": " ", "region": " " },
+    "location": { "address": "", "postalCode": "", "city": "Rio de Janeiro", "countryCode": " ", "region": "Brazil" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "antoniobrych", "url": "http://github.com/antoniobrych" },
+      { "network": "linkedin", "username": "antoniobrych", "url": "https://www.linkedin.com/in/antonio-brych-7803b61ba/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Métodos de Aprendizagem de Máquina" },
+    { "name": "Predição e Otimização" },
+    { "name": "Solucionar problemas reais com Ciência de Dados" }
   ],
   "skills": [
     {
