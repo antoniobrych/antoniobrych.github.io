@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Antonio Brych",
-    "label": "Estudante de Ciência de Dados e Inteligência Artificial",
+    "label": "Data Science and AI Student at FGV EMAp",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "antoniosouzabrych@gmail.com",
     "phone": "+55(21) 9178-47125",
     "website": "https://antoniobrych.github.io",
-    "summary": "Atualmente estou cursando minha graduação de Ciência de Dados na Escola de Matemática Aplicada da FGV (FGV EMAp)",
+    "summary": "Currently an undergraduate in Data Science and Artificial Intelligence at FGV EMAp",
     "location": { "address": "", "postalCode": "", "city": "Rio de Janeiro", "countryCode": " ", "region": "Brazil" },
     "profiles": [
       { "network": "github", "username": "antoniobrych", "url": "http://github.com/antoniobrych" },
@@ -15,19 +15,19 @@
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
-  "Interesses": [
-    { "name": "Métodos de Aprendizagem de Máquina" },
-    { "name": "Predição e Otimização" },
-    { "name": "Solucionar problemas reais com Ciência de Dados" }
+  "interests": [
+    { "name": "Machine Learning methods" },
+    { "name": "Optimization and Prediction" },
+    { "name": "Solve real world problems with Data Science and ML" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Programming Languages and Frameworks",
+      "keywords": ["Python","Pandas","Matplotlib","Numpy","TensorFlow","Scikit-Learn"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Non Technical",
+      "keywords": ["Portuguese","German","English"]
     }
   ],
   "education": [
