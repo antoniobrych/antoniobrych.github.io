@@ -15,7 +15,7 @@
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
-  "interests": [
+  "Interesses": [
     { "name": "Métodos de Aprendizagem de Máquina" },
     { "name": "Predição e Otimização" },
     { "name": "Solucionar problemas reais com Ciência de Dados" }
